@@ -31,8 +31,8 @@ I'm always looking for opportunities to work with cutting-edge technologies and 
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anikets95/)
-- Twitter: [Your Twitter Profile](https://twitter.com/anikets95)
+- LinkedIn: [anikets95](https://www.linkedin.com/in/anikets95/)
+- Twitter: [anikets95](https://twitter.com/anikets95)
 
 Feel free to reach out if you'd like to collaborate, discuss technology, or just have a friendly chat. 😊
 
