@@ -53,14 +53,21 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 
 ## Statistics
 
-![Metrics](/svg/metrics.base.svg)
-
-![FullHistory](/svg/metrics.plugin.calendar.full.svg)
-
-![ISOCalendar](/svg/metrics.plugin.isocalendar.fullyear.svg)
-
-![Achievements](/svg/metrics.plugin.achievements.svg)
-
-![ReposDiff](/svg/metrics.plugin.lines.history.svg)
-
-![Stargrazer](/svg/metrics.plugin.stargazers.svg)
+<table>
+  <tr>
+    <td align="center">
+<img src="/svg/metrics.base.svg" align = "center"/>
+    </td>
+    <td align="center">
+<img src="/svg/metrics.plugin.calendar.full.svg" align = "center"/>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+<img src="/svg/metrics.plugin.isocalendar.fullyear.svg" align = "center"/>
+    </td>
+    <td align="center">
+<img src="/svg/metrics.plugin.achievements.svg" align = "center"/>
+    </td>
+  </tr>
+</table>
