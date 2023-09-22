@@ -41,11 +41,6 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 ## Profile Details
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket-amagi&theme=github_dark" width="400" height="200" alt="aniket-amagi" align = "center"/>
 
-<br/>
-<hr/>
-<br/>
-
 ## Statistics
-
 
 ![Metrics](/github-metrics.svg)
