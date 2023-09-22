@@ -56,18 +56,18 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 <table>
   <tr>
     <td align="center">
-<img src="/svg/metrics.base.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/aniket-amagi/aniket-amagi/main/svg/metrics.base.svg" align = "center"/>
     </td>
     <td align="center">
-<img src="/svg/metrics.plugin.calendar.full.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/aniket-amagi/aniket-amagi/main/svg/metrics.plugin.calendar.full.svg" align = "center"/>
     </td>
   </tr>
     <tr>
     <td align="center">
-<img src="/svg/metrics.plugin.isocalendar.fullyear.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/aniket-amagi/aniket-amagi/main/svg/metrics.plugin.isocalendar.fullyear.svg" align = "center"/>
     </td>
     <td align="center">
-<img src="/svg/metrics.plugin.achievements.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/aniket-amagi/aniket-amagi/main/svg/metrics.plugin.achievements.svg" align = "center"/>
     </td>
   </tr>
 </table>
