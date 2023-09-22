@@ -50,3 +50,7 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 ![ISOCalendar](/svg/metrics.plugin.isocalendar.fullyear.svg)
 
 ![Achievements](/svg/metrics.plugin.achievements.svg)
+
+![ReposDiff](/svg/metrics.plugin.lines.history.svg)
+
+![Stargrazer](/svg/metrics.plugin.stargazers.svg)
