@@ -43,8 +43,10 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 
 ## Statistics
 
-![Metrics](/metrics.base.svg)
+![Metrics](/svg/metrics.base.svg)
 
-![ISOCalendar](/metrics.plugin.isocalendar.fullyear.svg)
+![FullHistory](/svg/metrics.plugin.calendar.full.svg)
 
-![Achievements](/metrics.plugin.achievements.svg)
+![ISOCalendar](/svg/metrics.plugin.isocalendar.fullyear.svg)
+
+![Achievements](/svg/metrics.plugin.achievements.svg)
