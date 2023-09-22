@@ -42,7 +42,7 @@ jobs:
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
         with:
-          filename: /svg/metrics.plugin.lines.history.svg
+          filename: svg/metrics.plugin.lines.history.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_lines: yes
@@ -57,7 +57,7 @@ jobs:
       - name: Using classic charts
         uses: lowlighter/metrics@latest
         with:
-          filename: /svg/metrics.plugin.stargazers.svg
+          filename: svg/metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
