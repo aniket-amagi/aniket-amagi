@@ -51,7 +51,7 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
   </tr>
   </table>
 
-## Statistics
+## Metrics
 
 <table>
   <tr>

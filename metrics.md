@@ -1,14 +1,18 @@
 <table>
   <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-</td>
+<img src="/svg/metrics.base.svg" align = "center"/>
+    </td>
+    <td align="center">
+<img src="/svg/metrics.plugin.calendar.full.svg" align = "center"/>
+    </td>
   </tr>
-  </table>
+    <tr>
+    <td align="center">
+<img src="/svg/metrics.plugin.isocalendar.fullyear.svg" align = "center"/>
+    </td>
+    <td align="center">
+<img src="/svg/metrics.plugin.achievements.svg" align = "center"/>
+    </td>
+  </tr>
+</table>
