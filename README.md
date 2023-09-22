@@ -43,4 +43,8 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 
 ## Statistics
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.base.svg)
+
+![ISOCalendar](/metrics.plugin.isocalendar.fullyear.svg)
+
+![Achievements](/metrics.plugin.achievements.svg)
