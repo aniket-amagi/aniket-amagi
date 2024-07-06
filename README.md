@@ -54,18 +54,6 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or have
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aniket-amagi.aniket-amagi)
 
-## Profile Details
-
-<table>
-  <tr>
-    <td align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket-amagi&theme=transparent" width="400" height="200" alt="aniket-amagi" align = "center"/>
-    </td>
-    <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket-amagi&show_icons=true&theme=transparent" width="400" height="200" alt="aniket-amagi" align = "center"/>
-    </td>
-  </tr>
-  </table>
 
 ## Metrics
 
